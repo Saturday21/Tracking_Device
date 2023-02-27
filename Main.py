@@ -7,11 +7,11 @@ status = True
 
 # mysql server (DataBase)
 mysql = mysql.connector.connect(
-    host = "127.0.0.1",
-    user = "root",
-    password = "root",
-    database = "Tracking_Record",
-    port = 8889
+    host = "",
+    user = "",
+    password = "",
+    database = "",
+    port = 
 )
 cursor = mysql.cursor(buffered=True)
 
