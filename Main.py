@@ -2,7 +2,7 @@ import mysql.connector
 import datetime
 from datetime import date
 import socket
-#hi
+
 status = True
 
 # mysql server (DataBase)
